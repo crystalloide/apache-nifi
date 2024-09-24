@@ -1,5 +1,5 @@
 # Working with the NiFi REST API
-This video will get you started working with the NiFi Rest API 1.18.0
+ you start working with the NiFi Rest API 1.27.0
 
 ### Requirements
 - Docker Desktop
